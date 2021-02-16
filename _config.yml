@@ -3,4 +3,4 @@ theme: jekyll-theme-cayman
 deploy:
   type: git
   repository: https://github.com/bigxiongs/bigxiongs.github.io.git
-  branch: main
+  branch: master
